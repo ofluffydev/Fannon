@@ -1,5 +1,3 @@
-import os
-
 # Print every line in Text.txt
 path_to_text = 'Text.txt'
 

@@ -1,6 +1,6 @@
 from tkinter import Tk, filedialog, Entry, Button, StringVar, Label
 
-from PIL import Image, ImageFont, ImageDraw
+from PIL import Image
 
 from helper import add_text_to_image, get_center_position, yes_no_cancel, pick_color
 
